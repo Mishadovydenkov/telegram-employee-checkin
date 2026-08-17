@@ -1,2 +1,2 @@
 # telegram-employee-checkin
-QA-документация
+QA-документация к проекту MetaCheck
